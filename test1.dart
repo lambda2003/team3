@@ -1,3 +1,3 @@
 main() {
-  print('hello changed 1');
+  print('hello');
 }
